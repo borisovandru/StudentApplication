@@ -12,6 +12,7 @@
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/drawable/ic_favourite.xml" value="0.1" />
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1145" />
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/drawable/ic_list.xml" value="0.1" />
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/drawable/ic_no_image.xml" value="0.1" />
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
@@ -35,6 +36,7 @@
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/layout/fragment_list.xml" value="0.1" />
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/layout/home_work_item.xml" value="0.1" />
         <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/layout/lesson_item.xml" value="0.1" />
+        <entry key="..\:/Users/boris/AndroidStudioProjects/StudentApplication/app/src/main/res/xml/network_security_config.xml" value="0.1" />
       </map>
     </option>
   </component>

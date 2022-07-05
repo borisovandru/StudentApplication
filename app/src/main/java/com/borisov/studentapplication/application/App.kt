@@ -1,6 +1,7 @@
 package com.borisov.studentapplication.application
 
 import android.app.Application
+import com.borisov.studentapplication.di.Di
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
@@ -15,7 +16,9 @@ class App : Application() {
             androidContext(applicationContext)
             modules(
                 listOf(
-                    //todo di
+                    Di.viewModelModule(),
+                    Di.useCasesModule(),
+                    Di.repositoryModule()
                 )
             )
         }
