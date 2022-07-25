@@ -64,7 +64,7 @@ class ClassesFragment : BaseFragment<FragmentClassesBinding>(R.layout.fragment_c
 
     override fun showError(throwable: Throwable) {}
 
-    override fun onLessonItemPicked(lessonResponse: Lessonable) {}
+    override fun onLessonItemPicked(lesson: Lessonable) {}
 
     override fun onRunSkype() {
         try {
